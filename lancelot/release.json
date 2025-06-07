@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1749225600",
+      "filename": "lineage-22.2-20250607-UNOFFICIAL-lancelot.zip",
+      "id": "a94bbcf65b77cfca170f0c915645ef8d184a516f95d01eacf382fa9ed523e4d5",
+      "romtype": "UNOFFICIAL",
+      "size": "1136773611",
+      "url": "https://github.com/lilium-lineage/ota/releases/download/lancelot-20250607/lineage-22.2-20250607-UNOFFICIAL-lancelot.zip",
+      "version": "22.2"
+    }
+  ]
+}
