@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1749225600",
+      "filename": "lineage-22.2-20250607-UNOFFICIAL-merlinx.zip",
+      "id": "f095eb955936a614ca29bdddbdcbdc21d832e8cf4de38b0b39b15526413bccb9",
+      "romtype": "UNOFFICIAL",
+      "size": "1151474577",
+      "url": "https://github.com/lilium-lineage/ota/releases/download/merlinx-20250607/lineage-22.2-20250607-UNOFFICIAL-merlinx.zip",
+      "version": "22.2"
+    }
+  ]
+}
