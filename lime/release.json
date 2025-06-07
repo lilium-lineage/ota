@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1749225600",
+      "filename": "lineage-22.2-20250607-UNOFFICIAL-lime.zip",
+      "id": "210e3d9feae8e6d7299c8fdb739fe4b8635ecc4699db69d086e2cb2605413cdf",
+      "romtype": "UNOFFICIAL",
+      "size": "1298482929",
+      "url": "https://github.com/lilium-lineage/ota/releases/download/lime-20250607/lineage-22.2-20250607-UNOFFICIAL-lime.zip",
+      "version": "22.2"
+    }
+  ]
+}
