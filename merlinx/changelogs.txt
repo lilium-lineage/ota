@@ -1,1 +1,25 @@
-- Initial Build
+📅 15 June 2025 Update
+
+📌 ROM Changelog:
+• Merged June Security Patch + latest LineageOS updates
+• SmartSpace added (requires ASI – works with modded NikGapps)
+• New lockscreen clock styles
+• Face Unlock is now available!
+• Collapsing action bar UI from Halcyon added
+• QS media player: ripple + turbulence effects disabled
+• Charging info now shows on lockscreen 
+  → Settings > Display > Lock Screen
+• Restricted audio can now be recorded during screen recording!
+  → Works with Apple Music, Spotify, SoundCloud, etc.
+
+📱 Xiaomi Chiime:
+• ✅ Now using Valeryn Kernel
+  ⚠️ DO NOT flash older Lilium kernel – will require data format!
+• DT2W (Double Tap to Wake) fixed
+• Switched to Pixel’s libpermgr
+• Cleaned up init scripts
+• Device can now be used as a webcam 📷
+
+📱 Xiaomi Haine:
+• Power-Off Alarm is now configured
+• Fixed backlight issue during offline charging

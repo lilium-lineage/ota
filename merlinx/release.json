@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1749225600",
-      "filename": "lineage-22.2-20250607-UNOFFICIAL-merlinx.zip",
-      "id": "f095eb955936a614ca29bdddbdcbdc21d832e8cf4de38b0b39b15526413bccb9",
+      "datetime": "1749916800",
+      "filename": "lineage-22.2-20250615-UNOFFICIAL-merlinx.zip",
+      "id": "f90460acab595afd53131b96ce13aa58a646f26a68c300fb465f249029182481",
       "romtype": "UNOFFICIAL",
-      "size": "1151474577",
-      "url": "https://github.com/lilium-lineage/ota/releases/download/merlinx-20250607/lineage-22.2-20250607-UNOFFICIAL-merlinx.zip",
+      "size": "1184902657",
+      "url": "https://github.com/lilium-lineage/ota/releases/download/merlinx-20250615/lineage-22.2-20250615-UNOFFICIAL-merlinx.zip",
       "version": "22.2"
     }
   ]
