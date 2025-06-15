@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1749225600",
-      "filename": "lineage-22.2-20250607-UNOFFICIAL-citrus.zip",
-      "id": "2a33f8d76121dabdfce5612872c7cb45e7c9d2b49a0c282282692d8b5907d7ed",
+      "datetime": "1749916800",
+      "filename": "lineage-22.2-20250615-UNOFFICIAL-citrus.zip",
+      "id": "1b53e9b0538749510d5d7b0ea571b7e9d728410da93c80b4034292cc3b5df73b",
       "romtype": "UNOFFICIAL",
-      "size": "1296514855",
-      "url": "https://github.com/lilium-lineage/ota/releases/download/citrus-20250607/lineage-22.2-20250607-UNOFFICIAL-citrus.zip",
+      "size": "1336944860",
+      "url": "https://github.com/lilium-lineage/ota/releases/download/citrus-20250615/lineage-22.2-20250615-UNOFFICIAL-citrus.zip",
       "version": "22.2"
     }
   ]
