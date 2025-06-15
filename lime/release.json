@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1749225600",
-      "filename": "lineage-22.2-20250607-UNOFFICIAL-lime.zip",
-      "id": "210e3d9feae8e6d7299c8fdb739fe4b8635ecc4699db69d086e2cb2605413cdf",
+      "datetime": "1749916800",
+      "filename": "lineage-22.2-20250615-UNOFFICIAL-lime.zip",
+      "id": "a107e3b089203b5a287e40fc7627dd8aa1f582e66c99436054da3b96539550a1",
       "romtype": "UNOFFICIAL",
-      "size": "1298482929",
-      "url": "https://github.com/lilium-lineage/ota/releases/download/lime-20250607/lineage-22.2-20250607-UNOFFICIAL-lime.zip",
+      "size": "1339269358",
+      "url": "https://github.com/lilium-lineage/ota/releases/download/lime-20250615/lineage-22.2-20250615-UNOFFICIAL-lime.zip",
       "version": "22.2"
     }
   ]
