@@ -1,18 +1,18 @@
 📌 ROM Changelog:
 ===== 20250802 =====
-• Merged July Security Patch + latest LineageOS changes
-• New lockscreen clock styles
-• Circle to Search and Face Unlock is now available
-• Collapsing action bar UI from Halcyon added
-• QS media player: ripple + turbulence effects disabled
-• Charging info now shows on lockscreen 
+- Merged July Security Patch + latest LineageOS changes
+- New lockscreen clock styles
+- Circle to Search and Face Unlock is now available
+- Collapsing action bar UI from Halcyon added
+- QS media player: ripple + turbulence effects disabled
+- Charging info now shows on lockscreen 
   → Settings > Display > Lock Screen
-• Restricted audio can now be recorded during screen recording
+- Restricted audio can now be recorded during screen recording
   → Works with Apple Music, Spotify, SoundCloud, etc.
-• Added window ignore secure feature
-• Added Action Progress Bar chip
-• Added more fonts
-• And whatever else I might’ve missed :)
+- Added window ignore secure feature
+- Added Action Progress Bar chip
+- Added more fonts
+- And whatever else I might’ve missed :)
 
 📌 Device Changelog:
 ===== 20250802 =====
@@ -33,6 +33,7 @@
 - [2025/07/26] [1d7812a] sdm845-common: update ese blobs from kona
 
 📌 Kernel Changelog:
+===== 20250802 =====
 - [2025/08/02] [a152a3cc8c68] drivers: kernelsu: Import version 12797 non-susfs
 - [2025/08/02] [a07931a5d777] qcom: ssr: Force RELATED restart_level for modem
 - [2025/08/02] [7b7877ea8013] Revert "fs/proc: hide lineageos links"
