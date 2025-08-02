@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1753542000",
-      "filename": "lineage-22.2-20250727-UNOFFICIAL-dipper.zip",
-      "id": "be30d046256dc653c0ac14145e2c49c50eaa2b3d4ed19c523566c06db7c06f0a",
+      "datetime": "1754060400",
+      "filename": "lineage-22.2-20250802-UNOFFICIAL-dipper.zip",
+      "id": "24dccb203245cf3893facc13b5a144c5c0c03f0b023b6f9316488765966ca594",
       "romtype": "UNOFFICIAL",
-      "size": "1309467023",
-      "url": "https://github.com/lilium-lineage/ota/releases/download/dipper-20250727/lineage-22.2-20250727-UNOFFICIAL-dipper.zip",
+      "size": "1309486474",
+      "url": "https://github.com/lilium-lineage/ota/releases/download/dipper-20250802/lineage-22.2-20250802-UNOFFICIAL-dipper.zip",
       "version": "22.2"
     }
   ]
