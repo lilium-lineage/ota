@@ -1,0 +1,41 @@
+📌 ROM Changelog:
+===== 20250802 =====
+• Merged July Security Patch + latest LineageOS changes
+• New lockscreen clock styles
+• Circle to Search and Face Unlock is now available
+• Collapsing action bar UI from Halcyon added
+• QS media player: ripple + turbulence effects disabled
+• Charging info now shows on lockscreen 
+  → Settings > Display > Lock Screen
+• Restricted audio can now be recorded during screen recording
+  → Works with Apple Music, Spotify, SoundCloud, etc.
+• Added window ignore secure feature
+• Added Action Progress Bar chip
+• Added more fonts
+• And whatever else I might’ve missed :)
+
+📌 Device Changelog:
+===== 20250802 =====
+- [2025/08/02] [94b5bd9] Revert "dipper: Use IR camera for ParanoidSense"
+- [2025/08/02] [7e72426] dipper: Adjust keyguard carrier text margin
+- [2025/08/01] [f8addd5] Reapply "dipper: update secure element blobs from kona"
+- [2025/07/28] [ba3f028] dipper: Use IR camera for ParanoidSense
+- [2025/07/28] [a6b3e6b] dipper: overlay: Adjust status bar padding
+- [2025/08/01] [ad20348] Revert "[ Test ]: sdm845-common: Switch to NCM USB tethering"
+- [2025/08/01] [a9f7bc6] Reapply "sdm845-common: update ese blobs from kona"
+- [2025/08/01] [67c7ffc] Revert "sdm845-common: move tethering overlay to framework overlay"
+- [2025/07/28] [4f60ff9] sdm845-common: Update kernel path
+- [2025/07/28] [3b55b68] sdm845-common: Don't build android.hardware.gnss
+- [2025/07/27] [ecb293a] [ Test ]: sdm845-common: Switch to NCM USB tethering
+- [2025/07/27] [d830708] sdm845-common: rr_overlays: Remove non-existent config_tether_dhcp_range
+- [2025/07/27] [2f7e9de] sdm845-common: move tethering overlay to framework overlay
+- [2025/07/26] [8e667d9] Revert "sdm845-common: update ese blobs from kona"
+- [2025/07/26] [1d7812a] sdm845-common: update ese blobs from kona
+
+📌 Kernel Changelog:
+- [2025/08/02] [a152a3cc8c68] drivers: kernelsu: Import version 12797 non-susfs
+- [2025/08/02] [a07931a5d777] qcom: ssr: Force RELATED restart_level for modem
+- [2025/08/02] [7b7877ea8013] Revert "fs/proc: hide lineageos links"
+- [2025/08/02] [6d139309eab4] soc: qcom: subsystem_restart: Prevent kernel panic caused by modem crash
+- [2025/08/02] [61805705f2e5] Revert "kernel: Upgrade to SUSFS 1.5.7 hooks"
+- [2025/08/02] [2913c39cb3e5] Revert "kernel: Add SUSFS 1.5.5 hooks"
